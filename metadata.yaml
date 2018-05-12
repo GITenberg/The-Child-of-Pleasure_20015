@@ -1,0 +1,50 @@
+_repo: The-Child-of-Pleasure_20015
+_version: 0.1.0
+alternative_title: Il piacere. English
+contributor:
+  commentator:
+    agent_name: Boyd, Ernest Augustus
+    alias: Iarraidh, Gnathai Gan
+    birthdate: 1887
+    deathdate: 1946
+    gutenberg_agent_id: '36778'
+    url: http://www.gutenberg.org/2009/agents/36778
+  translators:
+  - agent_name: Harding, Georgina
+    gutenberg_agent_id: '9032'
+    url: http://www.gutenberg.org/2009/agents/9032
+  - agent_name: Symons, Arthur
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '347'
+    url: http://www.gutenberg.org/2009/agents/347
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Symons
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: D'Annunzio, Gabriele
+    aliases:
+    - Annunzio, Gabriele d'
+    - Montenevoso, Gabriele d’Annunzio, principe di
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '9030'
+    url: http://www.gutenberg.org/2009/agents/9030
+    wikipedia: http://en.wikipedia.org/wiki/Gabriele_D'Annunzio
+description: ''
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2006-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20015'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: The Child of Pleasure
+url: http://www.gutenberg.org/ebooks/20015
